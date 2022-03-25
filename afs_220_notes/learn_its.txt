@@ -1,0 +1,21 @@
+// 220 Learn it's
+
+// week-1
+prototype
+testing
+analyst
+requirement gathering
+waterfall
+project manager
+project
+coding
+SDLC
+implementation
+black box
+False iterative
+XML
+cloud computing
+IaaS
+GIT
+mvn -v
+accounting management
