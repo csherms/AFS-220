@@ -1,5 +1,7 @@
 * {
   box-sizing: border-box;
+  font-weight: bold;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 body {
   padding: 20px;
@@ -19,13 +21,14 @@ h1 {
 .flex-grid .col {
   flex: 1;
   margin-left: 20px;
+  box-shadow: 2px 2px 2px whitesmoke;
 }
 
 .col {
-  background: green;
+  background: firebrick;
   padding: 40px;
 }
 
 .change-1 {
-  background-color: yellow;
+  background-color: green;
 }
