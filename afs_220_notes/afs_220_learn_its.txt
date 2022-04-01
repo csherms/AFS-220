@@ -1,0 +1,42 @@
+// 220 Learn it's
+
+// week-1
+prototype
+testing
+analyst
+requirement gathering
+waterfall
+project manager
+project
+coding
+SDLC
+implementation
+black box
+False iterative
+XML
+cloud computing
+IaaS
+GIT
+mvn -v
+accounting management
+
+// week-2
+unit testing
+at the end of each iteration
+all of these
+devops is only suitable for start-up companies (not true)
+errors, incidents and fixes
+developers collaboreate on code in a single branch called "trunk"
+big bang code deployments of fully tested and validated releases
+all of these
+debug
+git
+true
+LDAP
+Jenkin
+java -jar jenkins.war
+archetype
+lifycycle management
+change management
+DevOps
+benefits
