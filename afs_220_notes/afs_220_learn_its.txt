@@ -40,3 +40,24 @@ lifycycle management
 change management
 DevOps
 benefits
+
+// week-3
+sequence of immutible python objects
+to fetch specific set of sub-elements from a tuple
+membership testing and eliminating duplicate entries
+python definitions and statements
+modules
+module defines
+IIFE = immediately invoked funtion execution
+OOP = object oriented programing
+customizable applications
+variable = it gives data to the computer for processing
+web server
+Node.js
+homogenous and heterogenous
+hardware
+inheritance
+C
+deleting
+5**2
+request and response
