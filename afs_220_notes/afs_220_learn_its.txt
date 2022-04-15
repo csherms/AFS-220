@@ -61,3 +61,24 @@ C
 deleting
 5**2
 request and response
+
+// week-4
+All of these
+true
+server image, docker registry, docker container
+Server and client
+iPv6 address, load balancing, handling of static files, fastCGI support with chaching
+Redis
+Apache HTTP server is cross-platform
+Load balancer, embedded perl interpreter, reverse proxy
+Server{listen 80; server_name""; return444;}
+A device that distributes network or application traffic across a duster of servers
+load balancing
+simultaneous
+simple configuration
+three
+web server
+pattern
+one
+two - different servers
+dockerfile
