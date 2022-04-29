@@ -82,3 +82,44 @@ pattern
 one
 two - different servers
 dockerfile
+
+// Week-5
+class or function level
+software developers
+red, green, refactor
+peformance testing, unit testing, component testing
+test
+both XUnit style setup/teardown functions and with Pytest fixtures
+Test modules <click>, Test Functions <click>, Test Classes <click>, and Test Methods in Test Classes
+By specifying setup and teardown code once at each of the different levels
+singleton
+True
+fast
+the code clear and understandable
+test doubles
+dummy, fake, stub, spies, and mocks
+unit tests
+runtime
+price
+dummy
+
+Week-6
+All of these
+A function that returns the length of a passed in string
+Testing at the function level
+A process where unit tests are written before the production code
+All of these - classes with tests in them should have
+both XUnit style setup/teardown functions and with Pytest fixtures
+Test modules <click>, Test Functions <click>, Test Classes <click>, and Test Methods in Test Classes
+By specifying setup and teardown code once at each of the different levels
+functions
+Singleton
+Dummy
+Pylint
+quality
+Fake
+test case
+module and class attributes
+checkout class
+specific item
+
